@@ -31,7 +31,7 @@ Uzun zaman dilimleri boyunca her alanda merkez olmayı ve iktidarda kalmayı ba�
 </p> </div>
  
  
-<body bgcolor=#B9F6CA>
+<body bgcolor=#B9F6CA> 
 
 
 <tr><img src=webresim1.jpg title=KızKulesi width=330 height=400 />
