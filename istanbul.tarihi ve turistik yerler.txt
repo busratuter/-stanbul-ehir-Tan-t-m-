@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>İSTANBUL KÜLTÜRÜ</title>
+
+
+</head>
+<body>
+<I>
+<th> 
+ <h1 <td align=center>İSTANBUL'A HOŞGELDİNİZ </td> </h1>
+ <hr size=''10''>
+</th>
+ </I>
+ <table border=7 bgcolor=#4DB6AC  align=center>
+
+<td> <a href="anasayfaa.html" width=300>Anasayfa</td> </a>
+<td> <a href="tarihiyerler.html" width=300>Tarihi ve Turistik Yerler</td> </a>
+<td> <a href="yemeklerson.html" width=300> Yemek Kültürü</td> </a>
+<td> <a href="kiyafetler.html" width=500> Yöresel Kıyafetler </td> </a>
+<td>  <a href="iletisim.html"width=150> İletişim </td> </a>
+
+</table>
+ <div style="text-align:center" >
+ <p> <br><b> Büyük Mecidiye Camii ya da halk arasında bilinen adı ile Ortaköy Camii, </b> İstanbul Boğaziçi’nde Beşiktaş ilçesinin, Ortaköy semtinde sahilde bulunan Neo Barok tarzında bir camiidir.
+Cami, Sultan Abdülmecid tarafından Mimar Nigoğos Balyan’a 1853 yılında yaptırılmıştır. Oldukça zarif bir yapı olan cami Barok üslubundadır. Boğaziçi’nde eşsiz bir konuma yerleştirilmiştir. Bütün selatin camilerinde olduğu gibi harim ve hünkar bölümü olmak üzere iki kısımdan oluşur. Geniş ve yüksek pencereler Boğaz’ın değişken ışıklarını caminin içine taşıyacak biçimde düzenlenmiştir.
+Merdivenle çıkılan yapının tek şerefeli iki minaresi vardır. Duvarları beyaz kesme taştan yapılmıştır. Tek kubbenin duvarları pembe mozaiktendir. Mihrap mozaik ve mermerden, mimber ise somaki kaplı mermerden yapılmıştır ve ince bir işçiliğin ürünüdür. </br>
+
+<br> <b>Emirgân Korusu, </b> İstanbul'un Sarıyer ilçesinde yer alan bir korudur. İstanbul Boğazı kıyılarında, Emirgân-İstinye semtleri arasında yer alır. İstanbul Boğazı kıyısında, 47,2 hektarlık bir alanda sırtlar ve yamaçlar üstüne yayılmıştır. Çevresi yüksek duvarlarla çevrilmiş durumdadır.
+Koru, 17. yüzyılda Osmanlı padişahı IV. Murad tarafından İranlı Emir Güne Han'a armağan edilmiştir. Daha önce Feridun Bahçeleri olarak anılan bölge bundan sonra Emirgân Korusu olarak anılmaya başlanmıştır. Yüzyıllar boyunca pek çok kez el değiştirmiş, 19. yüzyılda Osmanlı Padişahı Abdülaziz tarafından Mısır Hıdivi İsmail Paşa'ya verilmiştir. 1871-1878 yılları arasında koru içinde 3 köşk yaptırılmıştır. Günümüze de ulaşan bu köşkler Sarı Köşk, Pembe Köşk ve Beyaz Köşk olarak adlandırılmaktadır. 1940 yılında dönemin İstanbul belediye başkanı Lütfi Kırdar'ın girişimiyle kamulaştırılıp park olarak düzenlenerek halka açılmıştır.</br>
+
+<br> <b>Dolmabahçe Sarayı, </b> otuz birinci Osmanlı padişahı Sultan Abdülmecid tarafından yaptırılmış. Osmanlı’nın modernleşme hedefine uygun olarak Batı anlayışı ile tasarlanan Dolmabahçe Sarayı, 7 Haziran 1856 tarihinde kullanıma açılmış. İnşasına 13 Haziran 1843 yılında başlanan bu görkemli sarayın yapımı 13 yıl sürmüş. 
+Dolmabahçe Sarayı, Garabet Amira Balyan ve oğlu Nikogos Balyan mimarlığında inşa edilmiş. Batı mimarisi baz alınarak yapılan bu saray; Abdülmecid, Abdülaziz, V. Murad, II. Abdülhamid, V. Mehmed Reşad, VI. Mehmed (Vahdeddin) dönemlerinde devlet işlerini yönetme amacıyla kullanılmış. Mustafa Kemal Atatürk de son yıllarını bu sarayda geçirdikten sonra buradaki yatak odasında vefat etmiş. </br>
+<br> <b>Yerebatan Sarnıcı </b> (Bizans Yunancası: βασιλική κινστέρνή; Latince: Basilica Cisterna)[1] İstanbul'un Avrupa yakasında bulunan, şehrin en büyük kapalı sarnıcı. Ayasofya binasının güneybatısındaki küçük bir binadan girilir. Sütun ormanı görünümündeki mekanın tavanı tuğla örülü, çapraz tonozludur.
+Sarnıç, Bizans imparatoru I. Justinianus (527-565) tarafından yaptırılmıştır. Suyun içinden yükselen pek çok mermer sütun nedeniyle halk arasında Yerebatan Sarayı olarak isimlendirilmektedir. Sarnıcın bulunduğu yerde daha önce bir bazilika bulunduğundan ötürü yapı Bazilika Sarnıcı olarak da adlandırılır.[2] Ayrıca sarnıç Dan Brown'un Cehennem adlı romanına da konu olmuştur. </br>
+
+</p> </div>
+ 
+ 
+ 
+ 
+ 
+ 
+<body bgcolor=#B9F6CA>
+
+
+<tr><img src=tarihiyer1.jpg title=OrtaköyCamii width=330 height=400 />
+
+
+<img src=tarihiyer2.jpg title=EmirganKorusu width=330 height=400 />
+
+<img src=tarihiyer3.jpg title=DolmabahçeSarayı width=330 height=400 /> 
+
+<img src=tarihiyer4.jpg title=YerebatanSarnıcı width=330 height=400 /> </tr>
+
+
+
+</body>
+</html>
