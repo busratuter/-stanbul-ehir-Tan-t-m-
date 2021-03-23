@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>İSTANBUL KÜLTÜRÜ</title>
+
+
+</head>
+<body>
+<I>
+<th> 
+ <h1 <td align=center>İSTANBUL'A HOŞGELDİNİZ </td> </h1>
+ <hr size=''10''>
+</th>
+ </I>
+ <table border=7 bgcolor=#4DB6AC align=center>
+
+<td> <a href="anasayfaa.html" width=150>Anasayfa</td> </a>
+<td>  <a href="tarihiyerler.html" width=150>Tarihi ve Turistik Yerler </td> </a>
+<td> <a href="yemeklerson.html" width=150> Yemek Kültürü</td> </a>
+<td> <a href="kiyafetler.html" width=190> Yöresel Kıyafetler </td> </a>
+<td>  <a href="iletisim.html" width=150> İletişim </td> </a>
+
+</table>
+ <div style="text-align:center" >
+ <p> <br> <b> Nezgep : </b> Başa takılır. Hem süs hem de başa takılan bürgü ve saçları tutmaya yarar. Eski Türk motifleri ile işlidir. </br>
+<br> <b>Altıparmak Üç Etek : </b> Göyneğin üzerine giyilir, ayak bileklerine kadar uzundur. ceket yerine geçen üç etek yırtmaçlı olup Kırmızı -Sarı renkte olanına Fındıklı, Bordo renginde ince çizgili olanına Üç Etek denir. </br>
+<br> <b>Darabulus veya Yün Kuşak : </b> Bele takılır. Özelliği elbiseyi tutturmak ve kadını dolgun göstermek içindir. İpekten yapılmıştır. </br>
+<br> <b>Peşkir :</b> Kuşağın üzerine tutturularak cep görevini gören bir önlüktür. </br>
+<br> <b>Çarık : </b>Ayağa giyilen dana derisinden yapılmış ayakkabılardır. </br>
+<br> <b>Paçalı İşlemeli Don : </b> Ketenden (Bürümcükten) yapılır. Ayak bileklerine gelen yerleri nezgep' e olduğu gibi işlemelidir. Bacağa giyilir. </br>
+
+</p> </div>
+ 
+ 
+ 
+ 
+ 
+ 
+<body bgcolor=#B9F6CA>
+
+
+<tr><img src=kıyafet1.jpg title=Nezgep width=420 height=400 />
+
+
+<img src=kıyafet2.jpg title=AltıparmakÜçEtek width=420 height=400 />
+
+<img src=kıyafet3.jpeg title=YünKuşak width=420 height=400 /> 
+
+<img src=kıyafet4.jpg title=Peşkir width=420 height=400 /> 
+
+<img src=kıyafet5.jpg title=Çarık width=420 height=400 />
+
+<img src=kıyafet6.jpg title=İşlemeliDon width=420 height=400 /> </tr>
+
+
+</body>
+</html>
